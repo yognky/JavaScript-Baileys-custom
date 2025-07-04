@@ -1,0 +1,10 @@
+{
+  "name": "baileys-custom",
+  "version": "1.0.0",
+  "main": "lib.js",
+  "description": "Custom Baileys pairing code only console",
+  "dependencies": {
+    "ws": "^8.13.0",
+    "readline-sync": "^1.4.10"
+  }
+}
